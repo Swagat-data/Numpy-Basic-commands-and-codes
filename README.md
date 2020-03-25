@@ -1,1 +1,1 @@
-# Numpy-Basic-commands-and-codes
+Python basic commands and codes
